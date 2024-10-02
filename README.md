@@ -1,15 +1,19 @@
-Projeto: Atividades 2
-Descrição
+**Projeto: Atividades 2**
+
+**Descrição**
+
 Este projeto consiste na criação de uma página web simples utilizando HTML, CSS, e JavaScript, com controle de versionamento através de múltiplos commits. A estrutura do projeto inclui arquivos de marcação, estilo, scripts, imagens e documentação. O objetivo é demonstrar a utilização de ferramentas de versionamento de código e manipulação de arquivos em um projeto de front-end.
 
-Estrutura do Projeto
+**Estrutura do Projeto**
+
 index.html: Arquivo principal da página web.
 style.css: Arquivo de estilo, vinculado ao index.html.
 script.js: Arquivo de JavaScript, vinculado ao index.html.
 erro.txt: Arquivo de logs para registrar erros encontrados durante o desenvolvimento.
 README.md: Documento explicativo do projeto.
 /img/: Pasta contendo três imagens utilizadas no arquivo index.html.
-Requisitos
+
+**Requisitos**
 Este projeto cumpre os seguintes requisitos:
 
 Pelo menos 15 commits feitos durante o desenvolvimento, para demonstrar um bom controle de versionamento e acompanhamento das mudanças no código.
@@ -18,12 +22,15 @@ Inclusão de um arquivo README.md com explicações sobre o projeto.
 Criação de uma pasta img contendo 3 imagens, que são utilizadas no arquivo index.html.
 Alteração e exclusão de arquivos ao longo do projeto.
 Uso do arquivo style.css e script.js no index.html para estilizar e adicionar funcionalidades à página.
-Funcionalidades
+
+**Funcionalidades**
+
 Estrutura básica de uma página HTML.
 Estilo customizado com CSS externo.
 Interatividade com JavaScript.
 Exibição de imagens localizadas na pasta img.
 Registro de possíveis erros no desenvolvimento no arquivo erro.txt.
+
 **Como Executar**
 Faça o clone deste repositório:
 
