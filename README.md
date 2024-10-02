@@ -11,6 +11,7 @@ style.css: Arquivo de estilo, vinculado ao index.html.
 script.js: Arquivo de JavaScript, vinculado ao index.html.
 erro.txt: Arquivo de logs para registrar erros encontrados durante o desenvolvimento.
 README.md: Documento explicativo do projeto.
+
 /img/: Pasta contendo três imagens utilizadas no arquivo index.html.
 
 **Requisitos**
